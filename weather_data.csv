@@ -1,0 +1,5 @@
+timestamp,city,temperature,humidity,wind_speed,wind_direction,conditions
+1/15/25 15:30,Los Angeles,21.44,17,5.66,280,clear sky
+1/15/25 15:30,San Bernardino,20.21,16,7.15,360,clear sky
+1/15/25 15:30,Malibu,21.8,18,1.93,169,clear sky
+2025-01-15 16:05:00,Malibu,21.68,19,0.71,232,clear sky
